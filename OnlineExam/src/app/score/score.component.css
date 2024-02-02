@@ -1,0 +1,35 @@
+#score
+{
+  color:rgb(219, 67, 12);
+  font-size:16px;
+  margin-top:50px;
+
+}
+#scorediv
+{
+    background-color: beige;
+    height:540px;
+    width: auto;
+   
+    
+}
+table,th,td
+{
+    border:2px solid blue;
+    border-style: groove;
+    background-color:rgb(251, 242, 242);
+    color:blue;
+}
+td:hover{
+    background-color: rgba(125, 248, 248, 0.995);
+}
+
+th,td
+{
+    padding: 10px;
+}
+
+table
+{
+    margin: auto;  
+}

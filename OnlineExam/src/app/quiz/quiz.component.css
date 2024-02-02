@@ -1,0 +1,117 @@
+#divside
+{
+   height: 535px;
+   width: 200px;
+   background-color: rgb(0,123,255); 
+}
+
+body
+{
+  background-color:rgb(213, 231, 248);
+}
+
+#form1
+{
+ 
+  height: 470px;
+  width:920px ;
+  margin-top:30px;
+  margin-bottom:30px;
+  margin-left:20px;
+  margin-right:10px;
+  background-color:rgb(159, 236, 246)
+}
+
+
+#icon
+{
+    font-size:30px;
+    color:white;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+#dashhead{
+  width: 920px;
+  height: 25px;
+  background-color: rgb(0,123,255); 
+}
+
+#usernamelog
+{
+  color:green;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  margin-left: 10px;
+}
+#welcome
+{
+  color:red;
+  margin-left: 10px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+#usernamelogname
+{
+  color:white;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  margin-left: 10px;
+}
+
+#testname{
+  color:rgb(229, 255, 0);
+  font-size: 14px;
+  margin-left: 10px;
+}
+
+#qno
+{
+  border: none;
+  background-color:rgb(159, 236, 246);
+  margin-left: 20px;
+  color: red;
+  font-weight:bold;
+}
+
+#time
+{    
+   float:right;
+   margin-right:10px;
+   color: rgb(27, 1, 5);
+   font-weight: bold;
+}
+#btn
+{
+   font-size: 20px;
+   color:white;
+   margin-right:10px;
+   margin-left: 20px;
+   border-color: white;
+   border-radius:5px;
+
+}
+
+#rdb
+{
+  margin-left: 20px;
+}
+
+#op
+{
+  margin-left:5px;
+  color: black;
+  font-weight: bold;
+}
+
+
+#qtext
+{
+  border: none;
+  background-color:rgb(159, 236, 246);
+  margin-left: 20px;
+  color: red;
+  font-weight:bold;
+}

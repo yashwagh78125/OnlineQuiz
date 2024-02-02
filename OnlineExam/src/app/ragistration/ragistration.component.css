@@ -1,0 +1,88 @@
+#form1{
+    border:2px;
+    border-color: red;
+    height: 350px;
+    width: 300px;
+    margin-top:15px;
+    text-decoration-color: blue;
+    
+}
+a
+{
+ text-decoration: none;
+ margin-left:110px;
+ align-self: center;
+ font-size:14px;
+ font-weight:bold;
+ font-style: italic;
+ 
+}
+#ragistration
+{
+  font-weight: bold;
+  font-size: 24px;
+  color: rgb(0,123,255); 
+  text-decoration: underline;
+    
+}
+#lb2
+{
+  font-weight: bold;
+}
+
+#pass,#user
+{  
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    border-color:  rgb(0,123,255); 
+    font-size:12px;
+  
+}
+#exam
+{
+  width:100px;
+  color:rgb(0, 123, 255);
+  border: color(0,123,255);
+  border-color:rgb(0,123,255);
+  background-color:white ;
+
+
+}
+
+#message
+{
+    color: red;
+    margin-left:60px;
+}
+
+#lb1
+{
+    margin-left: 50px;
+    font-style: italic;
+    font-size: 16px;
+    
+}
+#body
+{
+ /*background-color:rgb(0,123,255); */
+ height:500px;
+ width:auto;
+ background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20201101/pngtree-scene-with-geometrical-forms-the-poster-model-minimal-background-render-image_452981.jpg");
+
+}
+#formdiv
+{
+    height:450px ;
+    width: 340px;
+    border: 2px;
+    border-color: red;
+    background-color:white;
+    margin-top:30px;
+    border-top-left-radius:30px;
+    border-bottom-right-radius: 30px;
+    border: 10px;
+    border-style: groove;
+    border-color:rgb(243, 249, 249);;
+    background-color:rgb(146, 224, 255);
+}
